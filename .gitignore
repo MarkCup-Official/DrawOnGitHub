@@ -30,6 +30,5 @@ ENV/
 
 # 依赖文件
 pip-log.txt
-requirements.txt
 
 img.png

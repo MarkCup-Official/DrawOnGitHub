@@ -1,7 +1,10 @@
 # DrawOnGitHub
 我使用的Pyton版本: 3.11.5
 
-不需要任何外部库
+需要安装pillow库, 使用如下命令
+```bash
+pip install -r .\requirements.txt
+```
 
 一个可以在你的GitHub贡献墙上画画的项目
 - 你需要安装git
@@ -10,6 +13,8 @@
 - 运行这个程序
 - 上传自动生成的仓库到GitHub
 - 大功告成
+
+非public的项目的贡献仅自己可见, 想给别人看需要修改项目为public
 
 要是不想要了把GitHub上的项目删了像素画就会消失
 
